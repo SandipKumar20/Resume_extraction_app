@@ -1,0 +1,1 @@
+# An app which extracts email id, contact number and the text from resumes. The app can extract data from doc, docx, pdf files and then it stores the data in a .xlsx file.
